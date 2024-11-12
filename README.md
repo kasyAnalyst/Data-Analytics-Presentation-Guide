@@ -1,2 +1,2 @@
 # Data-Analytics-Presentation-Guide
-Power point presentation guide; Data Analytics
+Power point presentation guide; Data Analytics.
